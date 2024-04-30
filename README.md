@@ -1,2 +1,2 @@
-# AboutMe
-This repo shows what I've done and what I'm working on
+# 🎮 Welcome to my GitHub! 🎮
+# [LinkedIn](https://www.linkedin.com/in/lo%C3%AFc-tressens/)

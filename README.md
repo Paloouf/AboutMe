@@ -3,10 +3,13 @@
 #
 ## 42 Projects
 ### [ft_transcendence](https://github.com/CartelGames/ft_transcendence) : A web project where I used Three.js to make games (Pong & Snake vs Snake)
-  
-### [Cub3D](https://github.com/Paloouf/Cub3D) : A raycasting project based on Wolfenstein3D
+## Pong:
+  ![alt text](https://github.com/Paloouf/Paloouf/blob/main/Pong.png) 
+## Tron (Snake v Snake):
+  ![alt text](https://github.com/Paloouf/Paloouf/blob/main/Tron.png)
+### [Cub3D](https://github.com/Paloouf/Cub3D) : A raycasting project based on Wolfenstein3D (C)
   ![alt text](https://github.com/Paloouf/Cub3D/blob/master/cubedd.gif)
-### [FdF](https://github.com/Paloouf/FdF) : Rendering a map in wireframe
+### [FdF](https://github.com/Paloouf/FdF) : Rendering a map in wireframe (C)
   ![alt text](https://github.com/Paloouf/FdF/blob/main/fdf-gif.gif)
 ### My links:
 ### 🔗 [Github](https://github.com/Paloouf)

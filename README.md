@@ -1,6 +1,7 @@
 # 🎮 Welcome to my GitHub! 🎮
 ### I'm passionate about video games and a graphical programming enthusiast. Here you'll find projects I've worked on during my time at 42 and my future projects 
 #
+# Go check my website [here!](https://paloouf.github.io)
 # 💻 42 Projects 💻
 ## 🖥️ [ft_transcendence](https://github.com/CartelGames/ft_transcendence) : A web project where I used Three.js to make games (Pong & Snake vs Snake)
 ### 🏓 Pong:
